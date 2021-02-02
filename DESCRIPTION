@@ -1,0 +1,23 @@
+Type: Compendium
+Package: 259-files-import
+Title: Tutorial for the readr Package
+Version: 0.0.1
+Authors@R: 
+    person(given = "John",
+           family = "Franchak",
+           role = c("aut", "cre"),
+           email = "franchak@gmail.com")
+Description: Tutorial files for reading in single files in
+    R
+License: What license it uses
+Depends: 
+    holepunch,
+    janitor,
+    remotes,
+    stringr,
+    tidyverse,
+    visdat
+Remotes: 
+    karthik/holepunch
+Encoding: UTF-8
+LazyData: true
