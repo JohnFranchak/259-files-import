@@ -1,0 +1,6 @@
+install.packages("readr")
+install.packages("dplyr")
+install.packages("janitor")
+install.packages("stringr")
+install.packages("tibble")
+install.packages("visdat")
